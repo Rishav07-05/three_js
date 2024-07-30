@@ -1,5 +1,4 @@
-
-# Introduction
+# Introduction ☄️
 Three.js is an open-source JavaScript library that allows you to create 3D graphics in your browser with ease. It provides a robust set of tools for developers to build interactive 3D environments, games, data visualizations, and more.
 
 # Getting Started
